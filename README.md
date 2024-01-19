@@ -32,3 +32,6 @@ We now have the role for our Lambda function. This will create an action permiss
 
 ## AWS Lambda
 1.	Open AWS Lambda then **Create a Function**
+2.	Name the function as ```LambdaFunctionOverAPI``` then select the Runtime to Python 3.12
+3.	For Permissions choose Change default execution role then click **Use an existing role** on Execution role
+
