@@ -34,4 +34,10 @@ We now have the role for our Lambda function. This will create an action permiss
 1.	Open AWS Lambda then **Create a Function**
 2.	Name the function as ```LambdaFunctionOverAPI``` then select the Runtime to Python 3.12
 3.	For Permissions choose Change default execution role then click **Use an existing role** on Execution role
+4.	4.	Under existing role, choose the role that we created earlier, ```lambda-api-gateway-dynamodb-role```
+5.	Then Click **Create Function**
+6.	Go to **Code Source** tab then copy the code below.
+
+COPY CODE
+
 
