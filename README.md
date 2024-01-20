@@ -40,4 +40,12 @@ We now have the role for our Lambda function. This will create an action permiss
 
 COPY CODE
 
+![image](https://github.com/didin012/RESTful-Microservices-with-AWS-Lambda-API-Gateway-and-DynamoDB/assets/104528282/fd04f398-3849-40b0-a718-65cda6b1e54e)
 
+10.	Click **Test**. You should see something like this on the **Execution results**
+
+![image](https://github.com/didin012/RESTful-Microservices-with-AWS-Lambda-API-Gateway-and-DynamoDB/assets/104528282/ec33fe41-eb08-4d44-84c7-645f43e148c9)
+
+11.	This means our Lambda function is ready. We’ll now proceed on creating tables in DynamoDB.
+
+## Creating Table in Amazon DynamoDB
