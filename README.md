@@ -131,7 +131,7 @@ def lambda_handler(event, context):
 
 3.	We now have created our DynamoDB tables. Now we will create the API for our via API Gateway.
 
-##Creating our API via API Gateway
+## Creating our API via API Gateway
 1.	Open API Gateway
 2.	Create new API click **BUILD** on REST API. Then name your API to ```DynamoDBOperations```
 3.	Create Resource then name it ```dynamodbmanager```
