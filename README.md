@@ -1,6 +1,11 @@
 # RESTful-Microservices-with-AWS-Lambda-API-Gateway-and-DynamoDB
 RESTful Microservices with AWS Lambda, API Gateway and DynamoDB
 
+## Infrastructure
+
+![image](https://github.com/didin012/RESTful-Microservices-with-AWS-Lambda-API-Gateway-and-DynamoDB/assets/104528282/ad8dc62e-c682-46bc-a16f-10cbb658c273)
+
+
 ## Creating IAM Policy
 1.	On the **Management Console**, search for **IAM** then proceed to **Policies**.
 2.	Click **Create Policy**
